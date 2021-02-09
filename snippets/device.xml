@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- RGBcorp devices -->
+  <project path="device/xiaomi/surya" name="rgbcorp/device_xiaomi_surya" />
+  <project path="vendor/xiaomi/surya" name="rgbcorp/vendor_xiaomi_surya" />
+
+  <!-- include kernel -->
+  <project path="kernel/xiaomi/surya" name="GZR-Kernels/Optimus_Drunk_Surya" />
+
+</manifest>
