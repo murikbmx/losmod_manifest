@@ -17,3 +17,23 @@ repo sync
 ```
 Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
 
+Build
+-----
+
+After the source downloads, ensure you’re in the root of the source code (cd ~/android/lineage), then type:
+```
+source build/envsetup.sh
+breakfast surya
+```
+Turn on caching to speed up build:
+```
+export USE_CCACHE=1
+export CCACHE_EXEC=/usr/bin/ccache
+
+ccache -M 50G
+```
+Start the build:
+```
+croot
+brunch surya
+```
