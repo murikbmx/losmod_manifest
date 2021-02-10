@@ -6,6 +6,6 @@
   <project path="vendor/xiaomi/surya" name="rgbcorp/vendor_xiaomi_surya" />
 
   <!-- include kernel -->
-  <project path="kernel/xiaomi/surya" name="GZR-Kernels/Optimus_Drunk_Surya" />
+  <project path="kernel/xiaomi/surya" name="GZR-Kernels/Optimus_Drunk_Surya" revision="11.0" />
 
 </manifest>
