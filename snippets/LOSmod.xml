@@ -6,5 +6,6 @@
     <project path="packages/apps/LineageParts" name="LOSMod/packages_apps_LineageParts" />
     <project path="vendor/lineage" name="LOSMod/vendor_lineage" />
     <project path="packages/apps/Settings" name="LOSMod/packages_apps_Settings" groups="pdk-fs" />
+    <project path="system/security" name="LOSMod/system_security" groups="pdk-cw-fs,pdk-fs" />
 
 </manifest>
