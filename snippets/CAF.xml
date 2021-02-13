@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- CAF Projects -->
+    <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" remote="caf" />
+
+    <project name="platform/vendor/qcom-opensource/audio" path="vendor/qcom/opensource/audio" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/audio-hal/st-hal" path="vendor/qcom/opensource/audio-hal/st-hal" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/bluetooth" path="vendor/qcom/opensource/commonsys/bluetooth" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/bluetooth-commonsys-intf" path="vendor/qcom/opensource/commonsys-intf/bluetooth" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/bluetooth_ext" path="vendor/qcom/opensource/commonsys/bluetooth_ext" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/core-utils" path="vendor/qcom/opensource/core-utils" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/cryptfs_hw" path="vendor/qcom/opensource/commonsys/cryptfs_hw" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/data-ipa-cfg-mgr" path="vendor/qcom/opensource/data-ipa-cfg-mgr" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/data-kernel" path="vendor/qcom/opensource/data-kernel" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/dataservices" path="vendor/qcom/opensource/dataservices" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/dataservices-commonsys" path="vendor/qcom/opensource/commonsys/dataservices" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/display-commonsys-intf" path="vendor/qcom/opensource/commonsys-intf/display" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/dpm" path="vendor/qcom/opensource/dpm" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/dpm-commonsys" path="vendor/qcom/opensource/commonsys/dpm" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/fm-commonsys" path="vendor/qcom/opensource/commonsys/fm" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/fst-manager" path="vendor/qcom/opensource/fst-manager" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/healthd-ext" path="vendor/qcom/opensource/healthd-ext" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/interfaces" path="vendor/qcom/opensource/interfaces" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/location" path="vendor/qcom/opensource/location" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/mmc-utils" path="vendor/qcom/opensource/mmc-utils" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/power" path="vendor/qcom/opensource/power" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/recovery-ext" path="vendor/qcom/opensource/recovery-ext" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/shortcut-fe" path="shortcut-fe" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/system/bt" path="vendor/qcom/opensource/commonsys/system/bt" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/thermal-engine" path="vendor/qcom/opensource/thermal-engine" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/time-services" path="vendor/qcom/opensource/time-services" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/tools" path="vendor/qcom/opensource/tools" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/usb" path="vendor/qcom/opensource/usb" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/vibrator" path="vendor/qcom/opensource/vibrator" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/wfd-commonsys" path="vendor/qcom/opensource/commonsys-intf/wfd" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/wigig" path="vendor/qcom/opensource/wigig" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/wlan/fw-api" path="vendor/qcom/opensource/wlan/fw-api" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/wlan/qca-wifi-host-cmn" path="vendor/qcom/opensource/wlan/qca-wifi-host-cmn" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/wlan/qcacld-3.0" path="vendor/qcom/opensource/wlan/qcacld-3.0" remote="caf" />
+    <project name="platform/vendor/qcom-opensource/wlan/utils/sigma-dut" path="vendor/qcom/opensource/wlan/utils/sigma-dut" remote="caf" />
+
+</manifest>
