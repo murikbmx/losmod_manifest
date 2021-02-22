@@ -7,6 +7,7 @@
     <project path="vendor/lineage" name="LOSMod/vendor_lineage" />
     <project path="system/security" name="LOSMod/system_security" groups="pdk" />
     <project path="frameworks/av" name="LOSMod/frameworks_av" groups="pdk" />
+    <project path="device/lineage/sepolicy" name="LOSMod/device_lineage_sepolicy" />
 
     <project path="device/qcom/sepolicy" name="LOSMod/device_qcom_sepolicy" groups="qcom,pdk-qcom" />
     <project path="device/qcom/sepolicy_vndr" name="LOSMod/device_qcom_sepolicy_vndr" groups="qcom,pdk-qcom" />
