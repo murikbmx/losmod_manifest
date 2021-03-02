@@ -4,9 +4,16 @@ LineageOS MOD
 Getting started
 ---------------
 
-To get started with Android/LineageOS, you'll need to get
-familiar with [Repo](https://source.android.com/source/using-repo.html) and [Version Control with Git](https://source.android.com/source/version-control.html).
-
+Create titanium folder:
+```
+mkdir ~/LOS
+cd ~/LOS
+```
+GIT config (nickname, e-mail):
+```
+git config --global user.email "mail@domain.com"
+git config --global user.name "login"
+```
 To initialize your local repository using the LineageOS trees, use a command like this:
 ```
 repo init -u git://github.com/LOSMod/manifest.git -b lineage-18.1 --depth=1
