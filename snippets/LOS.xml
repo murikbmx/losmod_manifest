@@ -97,4 +97,11 @@
   <project path="external/tinycompress" name="LineageOS/android_external_tinycompress" groups="pdk" />
   <project path="frameworks/opt/timezonepicker" name="LineageOS/android_frameworks_opt_timezonepicker" groups="pdk-cw-fs,pdk-fs" />
 
+  <project path="hardware/qcom/sm7250/display" name="LineageOS/android_hardware_qcom_sm7250_display" groups="qcom_sm7250" />
+  <project path="hardware/qcom/sm7250/gps" name="LineageOS/android_hardware_qcom_sm7250_gps" groups="qcom_sm7250" >
+    <linkfile src="os_pickup.mk" dest="hardware/qcom/sm7250/Android.mk" />
+    <linkfile src="os_pickup.bp" dest="hardware/qcom/sm7250/Android.bp" />
+  </project>
+  <project path="hardware/qcom/sm7250/media" name="LineageOS/android_hardware_qcom_sm7250_media" groups="qcom_sm7250" />
+
 </manifest>

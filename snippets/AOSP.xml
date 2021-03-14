@@ -411,12 +411,6 @@
     <linkfile src="os_pickup.mk" dest="hardware/qcom/sm7150/Android.mk" />
     <linkfile src="os_pickup.bp" dest="hardware/qcom/sm7150/Android.bp" />
   </project>
-  <project path="hardware/qcom/sm7250/display" name="platform/hardware/qcom/sm7250/display" groups="qcom_sm7250" remote="aosp" />
-  <project path="hardware/qcom/sm7250/gps" name="platform/hardware/qcom/sm7250/gps" groups="qcom_sm7250" remote="aosp" >
-    <linkfile src="os_pickup.mk" dest="hardware/qcom/sm7250/Android.mk" />
-    <linkfile src="os_pickup.bp" dest="hardware/qcom/sm7250/Android.bp" />
-  </project>
-  <project path="hardware/qcom/sm7250/media" name="platform/hardware/qcom/sm7250/media" groups="qcom_sm7250" remote="aosp" />
   <project path="hardware/qcom/sm8150/gps" name="platform/hardware/qcom/sm8150/gps" groups="qcom_sm8150" remote="aosp" />
   <project path="hardware/qcom/sm8150/thermal" name="platform/hardware/qcom/sm8150/thermal" groups="qcom_sm8150" remote="aosp" />
   <project path="hardware/qcom/sm8150/vr" name="platform/hardware/qcom/sm8150/vr" groups="qcom_sm8150" remote="aosp" />
