@@ -49,6 +49,7 @@
     <project path="packages/apps/Dialer" name="LOSMod/packages_apps_Dialer" groups="pdk-fs" />
     <project path="packages/apps/Trebuchet" name="LOSMod/packages_apps_Trebuchet" />
 
+    <project path="external/asus/stitchimage" name="LOSMod/external_asus_stitchimage" />
     <project path="external/faceunlock" name="LOSMod/external_faceunlock" />
     <project path="packages/apps/FaceUnlockService" name="LOSMod/packages_apps_FaceUnlockService" />
 
