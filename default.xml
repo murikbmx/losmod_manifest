@@ -21,7 +21,7 @@
   <remote name="caf" 
           fetch="http://source.codeaurora.org/quic/la" 
           review="codeaurora.org" 
-          revision="refs/tags/LA.UM.9.8.r1-03600-SDM710.0"/>
+          revision="refs/tags/LA.UM.9.8.r1-03800-SDM710.0"/>
 
 
     <include name="snippets/lineage.xml" />
