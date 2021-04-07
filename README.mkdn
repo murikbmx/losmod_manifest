@@ -4,7 +4,7 @@ LineageOS MOD
 Getting started
 ---------------
 
-Create titanium folder:
+Create LineageOS folder:
 ```
 mkdir ~/LOS
 cd ~/LOS
