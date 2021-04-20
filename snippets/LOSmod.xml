@@ -42,6 +42,7 @@
     <project path="packages/apps/SimpleDeviceConfig" name="LOSMod/packages_apps_SimpleDeviceConfig" />
     <project path="vendor/qcom/opensource/audio" name="LOSMod/vendor_qcom_opensource_audio" groups="qcom,pdk-qcom" />
     <project path="hardware/qcom/sm8150/media" name="LOSMod/hardware_qcom_sm8150_media" groups="qcom_sm8150" />
+    <project path="vendor/qcom/opensource/commonsys/system/bt" name="LOSMod/vendor_qcom_opensource_system_bt" groups="qcom,pdk-qcom"/>	
 
     <project path="device/qcom/sepolicy" name="LOSMod/device_qcom_sepolicy" groups="qcom,pdk-qcom" />
     <project path="device/qcom/sepolicy_vndr" name="LOSMod/device_qcom_sepolicy_vndr" groups="qcom,pdk-qcom" />
