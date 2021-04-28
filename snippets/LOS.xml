@@ -11,6 +11,7 @@
   <project path="external/boringssl" name="LineageOS/android_external_boringssl" groups="pdk" />
   <project path="external/chromium-webview" name="LineageOS/android_external_chromium-webview" groups="pdk" clone-depth="1" revision="master" />
   <project path="external/cldr" name="LineageOS/android_external_cldr" groups="pdk" />
+  <project path="system/media" name="LineageOS/android_system_media" groups="pdk" />
   <project path="external/e2fsprogs" name="LineageOS/android_external_e2fsprogs" groups="pdk" />
   <project path="external/guice" name="LineageOS/android_external_guice" groups="pdk" />
   <project path="external/icu" name="LineageOS/android_external_icu" groups="pdk" />
