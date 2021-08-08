@@ -55,5 +55,7 @@
     <project path="external/asus/stitchimage" name="LOSMod/external_asus_stitchimage" />
     <project path="external/faceunlock" name="LOSMod/external_faceunlock" />
     <project path="packages/apps/FaceUnlockService" name="LOSMod/packages_apps_FaceUnlockService" />
+    
+    <project path="vendor/ANXCamera" name="LOSMod/vendor_ANXCamera" />
 
 </manifest>
