@@ -57,5 +57,8 @@
     <project path="packages/apps/FaceUnlockService" name="LOSMod/packages_apps_FaceUnlockService" />
     
     <project path="vendor/ANXCamera" name="LOSMod/vendor_ANXCamera" />
+    
+    <!-- Clang 13 version 13.0.1 -->
+    <project path="prebuilts/clang/host/linux-x86/clang-latest" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r428724" remote="crdroid-gitlab" />
 
 </manifest>
